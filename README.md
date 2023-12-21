@@ -20,9 +20,9 @@ Using Mammates Food Rating, you can categorize food images into 3 classes.
 
 | Class | Label                      |
 | ----- | -------------------------- |
-| 1     | Rating 1 (MamRates ⭐)     |
-| 2     | Rating 2 (MamRates ⭐⭐)   |
-| 3     | Rating 3 (MamRates 🌟🌟🌟) |
+| 0     | Rating 1 (MamRates ⭐)     |
+| 1     | Rating 2 (MamRates ⭐⭐)   |
+| 2     | Rating 3 (MamRates 🌟🌟🌟) |
 
 ## Prerequisites 📋
 
